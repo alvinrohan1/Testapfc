@@ -1,0 +1,26 @@
+{
+  "id": "/",
+  "name": "APFC Smart Test - UPSC EPFO Exam Preparation",
+  "short_name": "APFC Test",
+  "description": "Mobile-first UPSC EPFO APFC test preparation application with offline test-taking, 100-question generation from notes, instant color-coded feedback, and APK export.",
+  "start_url": "/",
+  "scope": "/",
+  "display": "standalone",
+  "orientation": "portrait-primary",
+  "theme_color": "#0f172a",
+  "background_color": "#0f172a",
+  "icons": [
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "any"
+    },
+    {
+      "src": "/icon.svg",
+      "sizes": "192x192 512x512",
+      "type": "image/svg+xml",
+      "purpose": "maskable"
+    }
+  ]
+}
